@@ -1,6 +1,6 @@
 ![mountaintopview-540x280](https://user-images.githubusercontent.com/70960407/134089773-664cf052-2ad2-4eb5-b940-ef16ded69406.jpg)
 
-Hi there, my name is Samanja Chowdhury Cartagena. I am hoping you enjoy my github repos. If you clone or fork my repos please star it.
+Hi there, my name is Samanja Chowdhury Cartagena. I hope you enjoy my github repos. If you clone or fork my repos please star it.
 
 Here are some facts about me.
 - 🔭 I’m currently working on my startup
