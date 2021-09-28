@@ -2,6 +2,8 @@
 
 Hi there, my name is Samanja Chowdhury Cartagena. I hope you find my github useful. If you clone or fork my repos please star it.
 
+![code quality score](https://www.code-inspector.com/project/29211/score/svg)
+
 Here are some facts about me.
 - 🔭 I’m currently working on my startup
 - 🌱 I’m currently learning OpenAI 
