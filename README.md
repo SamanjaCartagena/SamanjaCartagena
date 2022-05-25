@@ -10,4 +10,8 @@ Here are some facts about me.
 - 📫 How to reach me: cart.samanja09@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Visit my blog https://samchowdhury.medium.com/
+```
+Check out what project I am currently working on in my project section
+
+```
 
